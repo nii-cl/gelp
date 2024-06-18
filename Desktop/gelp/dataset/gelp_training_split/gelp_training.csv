@@ -1,0 +1,801 @@
+﻿uid,premise,hypothesis,label
+1,The circuit was assembled by the engineer.,The circuit was assembled by the engineer.,e
+2,The rod was bent by the man.,The rod was bent by the man.,e
+3,The dough was bitten by the child.,The dough was bitten by the child.,e
+4,The ingredients were blended by the kid.,The ingredients were blended by the kid.,e
+5,The wood was carved by the artisan.,The wood was carved by the artisan.,e
+6,The vegetables were chopped by the cook.,The vegetables were chopped by the cook.,e
+7,The room was cleaned by the staff.,The room was cleaned by the staff.,e
+8,The data was collected by the researcher.,The data was collected by the researcher.,e
+9,The paper was cut by the teacher.,The paper was cut by the teacher.,e
+10,The story was described by the author.,The story was described by the author.,e
+11,The building was destroyed by the hero.,The building was destroyed by the hero.,e
+12,The product was designed by the team.,The product was designed by the team.,e
+13,The criminal was pushed by the officer.,The criminal was pushed by the officer.,e
+14,The picture was drawn by the artist.,The picture was drawn by the artist.,e
+15,The poem was memorized by the student.,The poem was memorized by the student.,e
+16,The dough was flattened by the baker.,The dough was flattened by the baker.,e
+17,The shirt was folded by the clerk.,The shirt was folded by the clerk.,e
+18,The nail was hammered by the carpenter.,The nail was hammered by the carpenter.,e
+19,The system was hacked by the hacker.,The system was hacked by the hacker.,e
+20,The ball was hit by the player.,The ball was hit by the player.,e
+21,The door was kicked by the person.,The door was kicked by the person.,e
+22,The vase was knocked by the cat.,The vase was knocked by the cat.,e
+23,The decision was made by the committee.,The decision was made by the committee.,e
+24,The metal was pounded by the blacksmith.,The metal was pounded by the blacksmith.,e
+25,The goods were produced by the factory.,The goods were produced by the factory.,e
+26,The law was protected by the constitution.,The law was protected by the constitution.,e
+27,The box was punched by the opponent.,The box was punched by the opponent.,e
+28,The book was read by the teacher.,The book was read by the teacher.,e
+29,The wood was sawed by the lifeguard.,The wood was sawed by the lifeguard.,e
+30,The money was saved by the banker.,The money was saved by the banker.,e
+31,The mirror was shattered by the girl.,The mirror was shattered by the girl.,e
+32,The monster was slashed by the hero.,The monster was slashed by the hero.,e
+33,The cake was sliced by the chef.,The cake was sliced by the chef.,e
+34,The car was smashed by the giant.,The car was smashed by the giant.,e
+35,The fruit was squashed by the lady.,The fruit was squashed by the lady.,e
+36,The truth was suggested by the professor.,The truth was suggested by the professor.,e
+37,The step was skipped by the dancer.,The step was skipped by the dancer.,e
+38,The rope was skipped by the child.,The rope was skipped by the child.,e
+39,The statement was issued by the company.,The statement was issued by the company.,e
+40,The mystery was tackled by the detective.,The mystery was tackled by the detective.,e
+41,The manager allocated the employees the workstations.,The manager allocated the employees the workstations.,e
+42,The leader assigned the assistant the tasks.,The leader assigned the assistant the tasks.,e
+43,The committee awarded the athlete the trophy.,The committee awarded the athlete the trophy.,e
+44,The mother brought the friend the cookies.,The mother brought the friend the cookies.,e
+45,The coordinator emailed the team the agenda.,The coordinator emailed the team the agenda.,e
+46,The company extended the client the warranty.,The company extended the client the warranty.,e
+47,The assistant faxed the supervisor the documents.,The assistant faxed the supervisor the documents.,e
+48,The farmer fed the ducks the grain.,The farmer fed the ducks the grain.,e
+49,The representative forwarded the client the email.,The representative forwarded the client the email.,e
+50,The grandmother gave the sister the heirloom.,The grandmother gave the sister the heirloom.,e
+51,The foundation granted the organization the funding.,The foundation granted the organization the funding.,e
+52,The cashier handed the customer the change.,The cashier handed the customer the change.,e
+53,The crew hauled the friend the furniture.,The crew hauled the friend the furniture.,e
+54,The council issued the citizens the notice.,The council issued the citizens the notice.,e
+55,The neighbor lent the homeowner the tools.,The neighbor lent the homeowner the tools.,e
+56,The landlord leased the tenant the apartment.,The landlord leased the tenant the apartment.,e
+57,The manager left the colleague the keys.,The manager left the colleague the keys.,e
+58,The friend loaned the guy the ladder.,The friend loaned the guy the ladder.,e
+59,The secretary mailed the recipient the contract.,The secretary mailed the recipient the contract.,e
+60,The dealership offered the customer the drive.,The dealership offered the customer the drive.,e
+61,The borrower owed the lender the installment.,The borrower owed the lender the installment.,e
+62,The professor passed the teacher the papers.,The professor passed the teacher the papers.,e
+63,The customer paid the cashier the money.,The customer paid the cashier the money.,e
+64,The vacationer posted the friend the photos.,The vacationer posted the friend the photos.,e
+65,The provider promised the customer the package.,The provider promised the customer the package.,e
+66,The store refunded the customer the money.,The store refunded the customer the money.,e
+67,The courier relayed the manager the message.,The courier relayed the manager the message.,e
+68,The student repaid the lender the loan.,The student repaid the lender the loan.,e
+69,The gallery sold the customer the painting.,The gallery sold the customer the painting.,e
+70,The aunt sent the friend the card.,The aunt sent the friend the card.,e
+71,The waiter served the guests the course.,The waiter served the guests the course.,e
+72,The shop shipped the recipient the order.,The shop shipped the recipient the order.,e
+73,The guide showed the tourists the sites.,The guide showed the tourists the sites.,e
+74,The guest slipped the receptionist the number.,The guest slipped the receptionist the number.,e
+75,The smuggler smuggled the man the goods.,The smuggler smuggled the man the goods.,e
+76,The librarian took the mother the books.,The librarian took the mother the books.,e
+77,The instructor taught the students the concept.,The instructor taught the students the concept.,e
+78,The confidante told the friend the news.,The confidante told the friend the news.,e
+79,The merchant traded the lady the silk.,The merchant traded the lady the silk.,e
+80,The author wrote the publisher the manuscript.,The author wrote the publisher the manuscript.,e
+81,The manager allocated the workstations to the employees.,The manager allocated the workstations to the employees.,e
+82,The leader assigned the tasks to the assistant.,The leader assigned the tasks to the assistant.,e
+83,The committee awarded the trophy to the athlete.,The committee awarded the trophy to the athlete.,e
+84,The mother brought the cookies to the friend.,The mother brought the cookies to the friend.,e
+85,The coordinator emailed the agenda to the team.,The coordinator emailed the agenda to the team.,e
+86,The company extended the warranty to the client.,The company extended the warranty to the client.,e
+87,The assistant faxed the documents to the supervisor.,The assistant faxed the documents to the supervisor.,e
+88,The farmer fed the grain to the ducks.,The farmer fed the grain to the ducks.,e
+89,The representative forwarded the email to the client.,The representative forwarded the email to the client.,e
+90,The grandmother gave the heirloom to the sister.,The grandmother gave the heirloom to the sister.,e
+91,The foundation granted the funding to the organization.,The foundation granted the funding to the organization.,e
+92,The cashier handed the change to the customer.,The cashier handed the change to the customer.,e
+93,The crew hauled the furniture to the friend.,The crew hauled the furniture to the friend.,e
+94,The council issued the notice to the citizens.,The council issued the notice to the citizens.,e
+95,The neighbor lent the tools to the homeowner.,The neighbor lent the tools to the homeowner.,e
+96,The landlord leased the apartment to the tenant.,The landlord leased the apartment to the tenant.,e
+97,The manager left the keys to the colleague.,The manager left the keys to the colleague.,e
+98,The friend loaned the ladder to the guy.,The friend loaned the ladder to the guy.,e
+99,The secretary mailed the contract to the recipient.,The secretary mailed the contract to the recipient.,e
+100,The dealership offered the drive to the customer.,The dealership offered the drive to the customer.,e
+101,The borrower owed the installment to the lender.,The borrower owed the installment to the lender.,e
+102,The professor passed the papers to the teacher.,The professor passed the papers to the teacher.,e
+103,The customer paid the money to the cashier.,The customer paid the money to the cashier.,e
+104,The vacationer posted the photos to the friend.,The vacationer posted the photos to the friend.,e
+105,The provider promised the package to the customer.,The provider promised the package to the customer.,e
+106,The store refunded the money to the customer.,The store refunded the money to the customer.,e
+107,The courier relayed the message to the manager.,The courier relayed the message to the manager.,e
+108,The student repaid the loan to the lender.,The student repaid the loan to the lender.,e
+109,The gallery sold the painting to the customer.,The gallery sold the painting to the customer.,e
+110,The aunt sent the card to the friend.,The aunt sent the card to the friend.,e
+111,The waiter served the course to the guests.,The waiter served the course to the guests.,e
+112,The shop shipped the order to the recipient.,The shop shipped the order to the recipient.,e
+113,The guide showed the sites to the tourists.,The guide showed the sites to the tourists.,e
+114,The guest slipped the number to the receptionist.,The guest slipped the number to the receptionist.,e
+115,The smuggler smuggled the goods to the man.,The smuggler smuggled the goods to the man.,e
+116,The librarian took the books to the mother.,The librarian took the books to the mother.,e
+117,The instructor taught the concept to the students.,The instructor taught the concept to the students.,e
+118,The confidante told the news to the friend.,The confidante told the news to the friend.,e
+119,The merchant traded the silk to the lady.,The merchant traded the silk to the lady.,e
+120,The author wrote the manuscript to the publisher.,The author wrote the manuscript to the publisher.,e
+121,The chef baked the guests the cake.,The chef baked the guests the cake.,e
+122,The traveler booked the family the tickets.,The traveler booked the family the tickets.,e
+123,The fisherman caught the tourists the fish.,The fisherman caught the tourists the fish.,e
+124,The collector bought the museum the artifact.,The collector bought the museum the artifact.,e
+125,The artist carved the patrons the sculpture.,The artist carved the patrons the sculpture.,e
+126,The architect designed the man the bridge.,The architect designed the man the bridge.,e
+127,The mechanic fixed the driver the car.,The mechanic fixed the driver the car.,e
+128,The hiker found the campers the trail.,The hiker found the campers the trail.,e
+129,The gardener grew the neighbors the vegetables.,The gardener grew the neighbors the vegetables.,e
+130,The tailor made the customer the suit.,The tailor made the customer the suit.,e
+131,The customer ordered the chef the meal.,The customer ordered the chef the meal.,e
+132,The decorator painted the homeowner the mural.,The decorator painted the homeowner the mural.,e
+133,The child picked the teacher the flowers.,The child picked the teacher the flowers.,e
+134,The cook prepared the guests the meal.,The cook prepared the guests the meal.,e
+135,The tourist rented the agency the car.,The tourist rented the agency the car.,e
+136,The patron reserved the lady the seats.,The patron reserved the lady the seats.,e
+137,The baker rolled the lady the pastry.,The baker rolled the lady the pastry.,e
+138,The banker saved the client the money.,The banker saved the client the money.,e
+139,The officer secured the teacher the safety.,The officer secured the teacher the safety.,e
+140,The potter shaped the man the pot.,The potter shaped the man the pot.,e
+141,The thief stole the kid the jewelry.,The thief stole the kid the jewelry.,e
+142,The maid washed the lady the linens.,The maid washed the lady the linens.,e
+143,The author wrote the reader the story.,The author wrote the reader the story.,e
+144,The organizer arranged the professor the event.,The organizer arranged the professor the event.,e
+145,The engineer assembled the customer the machine.,The engineer assembled the customer the machine.,e
+146,The chef grilled the customer the steak.,The chef grilled the customer the steak.,e
+147,The grandmother knitted the baby the blanket.,The grandmother knitted the baby the blanket.,e
+148,The worker earned the family the income.,The worker earned the family the income.,e
+149,The waiter served the woman the dinner.,The waiter served the woman the dinner.,e
+150,The coordinator arranged the guests the seating.,The coordinator arranged the guests the seating.,e
+151,The team assembled the kids the toys.,The team assembled the kids the toys.,e
+152,The baker baked the man the bread.,The baker baked the man the bread.,e
+153,The agent booked the actor the audition.,The agent booked the actor the audition.,e
+154,The cook boiled the eggs the breakfast.,The cook boiled the eggs the breakfast.,e
+155,The contractor built the owners the house.,The contractor built the owners the house.,e
+156,The shopper bought the children the gifts.,The shopper bought the children the gifts.,e
+157,The craftsman carved the guests the figure.,The craftsman carved the guests the figure.,e
+158,The customer cashed the swimmer the check.,The customer cashed the swimmer the check.,e
+159,The detective caught the criminal the evidence.,The detective caught the criminal the evidence.,e
+160,The company chartered the group the yacht.,The company chartered the group the yacht.,e
+161,The chef baked the cake for the guests.,The chef baked the cake for the guests.,e
+162,The traveler booked the tickets for the family.,The traveler booked the tickets for the family.,e
+163,The fisherman caught the fish for the tourists.,The fisherman caught the fish for the tourists.,e
+164,The collector bought the artifact for the museum.,The collector bought the artifact for the museum.,e
+165,The artist carved the sculpture for the patrons.,The artist carved the sculpture for the patrons.,e
+166,The architect designed the bridge for the man.,The architect designed the bridge for the man.,e
+167,The mechanic fixed the car for the driver.,The mechanic fixed the car for the driver.,e
+168,The hiker found the trail for the campers.,The hiker found the trail for the campers.,e
+169,The gardener grew the vegetables for the neighbors.,The gardener grew the vegetables for the neighbors.,e
+170,The tailor made the suit for the customer.,The tailor made the suit for the customer.,e
+171,The customer ordered the meal for the chef.,The customer ordered the meal for the chef.,e
+172,The decorator painted the mural for the homeowner.,The decorator painted the mural for the homeowner.,e
+173,The child picked the flowers for the teacher.,The child picked the flowers for the teacher.,e
+174,The cook prepared the meal for the guests.,The cook prepared the meal for the guests.,e
+175,The tourist rented the car for the agency.,The tourist rented the car for the agency.,e
+176,The patron reserved the seats for the lady.,The patron reserved the seats for the lady.,e
+177,The baker rolled the pastry for the lady.,The baker rolled the pastry for the lady.,e
+178,The banker saved the money for the client.,The banker saved the money for the client.,e
+179,The officer secured the safety for the teacher.,The officer secured the safety for the teacher.,e
+180,The potter shaped the pot for the man.,The potter shaped the pot for the man.,e
+181,The thief stole the jewelry for the kid.,The thief stole the jewelry for the kid.,e
+182,The maid washed the linens for the lady.,The maid washed the linens for the lady.,e
+183,The author wrote the story for the reader.,The author wrote the story for the reader.,e
+184,The organizer arranged the event for the professor.,The organizer arranged the event for the professor.,e
+185,The engineer assembled the machine for the customer.,The engineer assembled the machine for the customer.,e
+186,The chef grilled the steak for the customer.,The chef grilled the steak for the customer.,e
+187,The grandmother knitted the blanket for the baby.,The grandmother knitted the blanket for the baby.,e
+188,The worker earned the income for the family.,The worker earned the income for the family.,e
+189,The waiter served the dinner for the woman.,The waiter served the dinner for the woman.,e
+190,The coordinator arranged the seating for the guests.,The coordinator arranged the seating for the guests.,e
+191,The team assembled the toys for the kids.,The team assembled the toys for the kids.,e
+192,The baker baked the bread for the man.,The baker baked the bread for the man.,e
+193,The agent booked the audition for the actor.,The agent booked the audition for the actor.,e
+194,The cook boiled the breakfast for the eggs.,The cook boiled the breakfast for the eggs.,e
+195,The contractor built the house for the owners.,The contractor built the house for the owners.,e
+196,The shopper bought the gifts for the children.,The shopper bought the gifts for the children.,e
+197,The craftsman carved the figure for the guests.,The craftsman carved the figure for the guests.,e
+198,The customer cashed the check for the swimmer.,The customer cashed the check for the swimmer.,e
+199,The detective caught the evidence for the criminal.,The detective caught the evidence for the criminal.,e
+200,The company chartered the yacht for the group.,The company chartered the yacht for the group.,e
+201,The engineer was assembled by the circuit.,The engineer was assembled by the circuit.,e
+202,The man was bent by the rod.,The man was bent by the rod.,e
+203,The child was bitten by the dough.,The child was bitten by the dough.,e
+204,The kid were blended by the ingredients.,The kid were blended by the ingredients.,e
+205,The artisan was carved by the wood.,The artisan was carved by the wood.,e
+206,The cook was chopped by the vegetables.,The cook was chopped by the vegetables.,e
+207,The staff was cleaned by the room.,The staff was cleaned by the room.,e
+208,The researcher was collected by the data.,The researcher was collected by the data.,e
+209,The teacher was cut by the paper.,The teacher was cut by the paper.,e
+210,The author was described by the story.,The author was described by the story.,e
+211,The hero was destroyed by the building.,The hero was destroyed by the building.,e
+212,The team was designed by the product.,The team was designed by the product.,e
+213,The officer was pushed by the criminal.,The officer was pushed by the criminal.,e
+214,The artist was drawn by the picture.,The artist was drawn by the picture.,e
+215,The student was memorized by the poem.,The student was memorized by the poem.,e
+216,The baker was flattened by the dough.,The baker was flattened by the dough.,e
+217,The clerk was folded by the shirt.,The clerk was folded by the shirt.,e
+218,The carpenter was hammered by the nail.,The carpenter was hammered by the nail.,e
+219,The hacker was hacked by the system.,The hacker was hacked by the system.,e
+220,The player was hit by the ball.,The player was hit by the ball.,e
+221,The person was kicked by the door.,The person was kicked by the door.,e
+222,The cat was knocked by the vase.,The cat was knocked by the vase.,e
+223,The committee was made by the decision.,The committee was made by the decision.,e
+224,The blacksmith was pounded by the metal.,The blacksmith was pounded by the metal.,e
+225,The factory was produced by the goods.,The factory was produced by the goods.,e
+226,The constitution was protected by the law.,The constitution was protected by the law.,e
+227,The opponent was punched by the box.,The opponent was punched by the box.,e
+228,The teacher was read by the book.,The teacher was read by the book.,e
+229,The lifeguard was sawed by the wood.,The lifeguard was sawed by the wood.,e
+230,The banker was saved by the money.,The banker was saved by the money.,e
+231,The girl was shattered by the mirror.,The girl was shattered by the mirror.,e
+232,The hero was slashed by the monster.,The hero was slashed by the monster.,e
+233,The chef was sliced by the cake.,The chef was sliced by the cake.,e
+234,The giant was smashed by the car.,The giant was smashed by the car.,e
+235,The lady was squashed by the fruit.,The lady was squashed by the fruit.,e
+236,The professor was suggested by the truth.,The professor was suggested by the truth.,e
+237,The dancer was skipped by the step.,The dancer was skipped by the step.,e
+238,The child was skipped by the rope.,The child was skipped by the rope.,e
+239,The company was issued by the statement.,The company was issued by the statement.,e
+240,The detective was tackled by the mystery.,The detective was tackled by the mystery.,e
+241,The manager allocated the workstations the employees.,The manager allocated the workstations the employees.,e
+242,The leader assigned the tasks the assistant.,The leader assigned the tasks the assistant.,e
+243,The committee awarded the trophy the athlete.,The committee awarded the trophy the athlete.,e
+244,The mother brought the cookies the friend.,The mother brought the cookies the friend.,e
+245,The coordinator emailed the agenda the team.,The coordinator emailed the agenda the team.,e
+246,The company extended the warranty the client.,The company extended the warranty the client.,e
+247,The assistant faxed the documents the supervisor.,The assistant faxed the documents the supervisor.,e
+248,The farmer fed the grain the ducks.,The farmer fed the grain the ducks.,e
+249,The representative forwarded the email the client.,The representative forwarded the email the client.,e
+250,The grandmother gave the heirloom the sister.,The grandmother gave the heirloom the sister.,e
+251,The foundation granted the funding the organization.,The foundation granted the funding the organization.,e
+252,The cashier handed the change the customer.,The cashier handed the change the customer.,e
+253,The crew hauled the furniture the friend.,The crew hauled the furniture the friend.,e
+254,The council issued the notice the citizens.,The council issued the notice the citizens.,e
+255,The neighbor lent the tools the homeowner.,The neighbor lent the tools the homeowner.,e
+256,The landlord leased the apartment the tenant.,The landlord leased the apartment the tenant.,e
+257,The manager left the keys the colleague.,The manager left the keys the colleague.,e
+258,The friend loaned the ladder the guy.,The friend loaned the ladder the guy.,e
+259,The secretary mailed the contract the recipient.,The secretary mailed the contract the recipient.,e
+260,The dealership offered the drive the customer.,The dealership offered the drive the customer.,e
+261,The borrower owed the installment the lender.,The borrower owed the installment the lender.,e
+262,The professor passed the papers the teacher.,The professor passed the papers the teacher.,e
+263,The customer paid the money the cashier.,The customer paid the money the cashier.,e
+264,The vacationer posted the photos the friend.,The vacationer posted the photos the friend.,e
+265,The provider promised the package the customer.,The provider promised the package the customer.,e
+266,The store refunded the money the customer.,The store refunded the money the customer.,e
+267,The courier relayed the message the manager.,The courier relayed the message the manager.,e
+268,The student repaid the loan the lender.,The student repaid the loan the lender.,e
+269,The gallery sold the painting the customer.,The gallery sold the painting the customer.,e
+270,The aunt sent the card the friend.,The aunt sent the card the friend.,e
+271,The waiter served the course the guests.,The waiter served the course the guests.,e
+272,The shop shipped the order the recipient.,The shop shipped the order the recipient.,e
+273,The guide showed the sites the tourists.,The guide showed the sites the tourists.,e
+274,The guest slipped the number the receptionist.,The guest slipped the number the receptionist.,e
+275,The smuggler smuggled the goods the man.,The smuggler smuggled the goods the man.,e
+276,The librarian took the books the mother.,The librarian took the books the mother.,e
+277,The instructor taught the concept the students.,The instructor taught the concept the students.,e
+278,The confidante told the news the friend.,The confidante told the news the friend.,e
+279,The merchant traded the silk the lady.,The merchant traded the silk the lady.,e
+280,The author wrote the manuscript the publisher.,The author wrote the manuscript the publisher.,e
+281,The manager allocated the employees to the workstations.,The manager allocated the employees to the workstations.,e
+282,The leader assigned the assistant to the tasks.,The leader assigned the assistant to the tasks.,e
+283,The committee awarded the athlete to the trophy.,The committee awarded the athlete to the trophy.,e
+284,The mother brought the friend to the cookies.,The mother brought the friend to the cookies.,e
+285,The coordinator emailed the team to the agenda.,The coordinator emailed the team to the agenda.,e
+286,The company extended the client to the warranty.,The company extended the client to the warranty.,e
+287,The assistant faxed the supervisor to the documents.,The assistant faxed the supervisor to the documents.,e
+288,The farmer fed the ducks to the grain.,The farmer fed the ducks to the grain.,e
+289,The representative forwarded the client to the email.,The representative forwarded the client to the email.,e
+290,The grandmother gave the sister to the heirloom.,The grandmother gave the sister to the heirloom.,e
+291,The foundation granted the organization to the funding.,The foundation granted the organization to the funding.,e
+292,The cashier handed the customer to the change.,The cashier handed the customer to the change.,e
+293,The crew hauled the friend to the furniture.,The crew hauled the friend to the furniture.,e
+294,The council issued the citizens to the notice.,The council issued the citizens to the notice.,e
+295,The neighbor lent the homeowner to the tools.,The neighbor lent the homeowner to the tools.,e
+296,The landlord leased the tenant to the apartment.,The landlord leased the tenant to the apartment.,e
+297,The manager left the colleague to the keys.,The manager left the colleague to the keys.,e
+298,The friend loaned the guy to the ladder.,The friend loaned the guy to the ladder.,e
+299,The secretary mailed the recipient to the contract.,The secretary mailed the recipient to the contract.,e
+300,The dealership offered the customer to the drive.,The dealership offered the customer to the drive.,e
+301,The borrower owed the lender to the installment.,The borrower owed the lender to the installment.,e
+302,The professor passed the teacher to the papers.,The professor passed the teacher to the papers.,e
+303,The customer paid the cashier to the money.,The customer paid the cashier to the money.,e
+304,The vacationer posted the friend to the photos.,The vacationer posted the friend to the photos.,e
+305,The provider promised the customer to the package.,The provider promised the customer to the package.,e
+306,The store refunded the customer to the money.,The store refunded the customer to the money.,e
+307,The courier relayed the manager to the message.,The courier relayed the manager to the message.,e
+308,The student repaid the lender to the loan.,The student repaid the lender to the loan.,e
+309,The gallery sold the customer to the painting.,The gallery sold the customer to the painting.,e
+310,The aunt sent the friend to the card.,The aunt sent the friend to the card.,e
+311,The waiter served the guests to the course.,The waiter served the guests to the course.,e
+312,The shop shipped the recipient to the order.,The shop shipped the recipient to the order.,e
+313,The guide showed the tourists to the sites.,The guide showed the tourists to the sites.,e
+314,The guest slipped the receptionist to the number.,The guest slipped the receptionist to the number.,e
+315,The smuggler smuggled the man to the goods.,The smuggler smuggled the man to the goods.,e
+316,The librarian took the mother to the books.,The librarian took the mother to the books.,e
+317,The instructor taught the students to the concept.,The instructor taught the students to the concept.,e
+318,The confidante told the friend to the news.,The confidante told the friend to the news.,e
+319,The merchant traded the lady to the silk.,The merchant traded the lady to the silk.,e
+320,The author wrote the publisher to the manuscript.,The author wrote the publisher to the manuscript.,e
+321,The chef baked the cake the the guests.,The chef baked the cake the the guests.,e
+322,The traveler booked the tickets the the family.,The traveler booked the tickets the the family.,e
+323,The fisherman caught the fish the the tourists.,The fisherman caught the fish the the tourists.,e
+324,The collector bought the artifact the the museum.,The collector bought the artifact the the museum.,e
+325,The artist carved the sculpture the the patrons.,The artist carved the sculpture the the patrons.,e
+326,The architect designed the bridge the the man.,The architect designed the bridge the the man.,e
+327,The mechanic fixed the car the the driver.,The mechanic fixed the car the the driver.,e
+328,The hiker found the trail the the campers.,The hiker found the trail the the campers.,e
+329,The gardener grew the vegetables the the neighbors.,The gardener grew the vegetables the the neighbors.,e
+330,The tailor made the suit the the customer.,The tailor made the suit the the customer.,e
+331,The customer ordered the meal the the chef.,The customer ordered the meal the the chef.,e
+332,The decorator painted the mural the the homeowner.,The decorator painted the mural the the homeowner.,e
+333,The child picked the flowers the the teacher.,The child picked the flowers the the teacher.,e
+334,The cook prepared the meal the the guests.,The cook prepared the meal the the guests.,e
+335,The tourist rented the car the the agency.,The tourist rented the car the the agency.,e
+336,The patron reserved the seats the the lady.,The patron reserved the seats the the lady.,e
+337,The baker rolled the pastry the the lady.,The baker rolled the pastry the the lady.,e
+338,The banker saved the money the the client.,The banker saved the money the the client.,e
+339,The officer secured the safety the the teacher.,The officer secured the safety the the teacher.,e
+340,The potter shaped the pot the the man.,The potter shaped the pot the the man.,e
+341,The thief stole the jewelry the the kid.,The thief stole the jewelry the the kid.,e
+342,The maid washed the linens the the lady.,The maid washed the linens the the lady.,e
+343,The author wrote the story the the reader.,The author wrote the story the the reader.,e
+344,The organizer arranged the event the the professor.,The organizer arranged the event the the professor.,e
+345,The engineer assembled the machine the the customer.,The engineer assembled the machine the the customer.,e
+346,The chef grilled the steak the the customer.,The chef grilled the steak the the customer.,e
+347,The grandmother knitted the blanket the the baby.,The grandmother knitted the blanket the the baby.,e
+348,The worker earned the income the the family.,The worker earned the income the the family.,e
+349,The waiter served the dinner the the woman.,The waiter served the dinner the the woman.,e
+350,The coordinator arranged the seating the the guests.,The coordinator arranged the seating the the guests.,e
+351,The team assembled the toys the the kids.,The team assembled the toys the the kids.,e
+352,The baker baked the bread the the man.,The baker baked the bread the the man.,e
+353,The agent booked the audition the the actor.,The agent booked the audition the the actor.,e
+354,The cook boiled the breakfast the the eggs.,The cook boiled the breakfast the the eggs.,e
+355,The contractor built the house the the owners.,The contractor built the house the the owners.,e
+356,The shopper bought the gifts the the children.,The shopper bought the gifts the the children.,e
+357,The craftsman carved the figure the the guests.,The craftsman carved the figure the the guests.,e
+358,The customer cashed the check the the swimmer.,The customer cashed the check the the swimmer.,e
+359,The detective caught the evidence the the criminal.,The detective caught the evidence the the criminal.,e
+360,The company chartered the yacht the the group.,The company chartered the yacht the the group.,e
+361,The chef baked the guests for the cake .,The chef baked the guests for the cake .,e
+362,The traveler booked the family for the tickets .,The traveler booked the family for the tickets .,e
+363,The fisherman caught the tourists for the fish .,The fisherman caught the tourists for the fish .,e
+364,The collector bought the museum for the artifact .,The collector bought the museum for the artifact .,e
+365,The artist carved the patrons for the sculpture .,The artist carved the patrons for the sculpture .,e
+366,The architect designed the man for the bridge .,The architect designed the man for the bridge .,e
+367,The mechanic fixed the driver for the car .,The mechanic fixed the driver for the car .,e
+368,The hiker found the campers for the trail .,The hiker found the campers for the trail .,e
+369,The gardener grew the neighbors for the vegetables .,The gardener grew the neighbors for the vegetables .,e
+370,The tailor made the customer for the suit .,The tailor made the customer for the suit .,e
+371,The customer ordered the chef for the meal .,The customer ordered the chef for the meal .,e
+372,The decorator painted the homeowner for the mural .,The decorator painted the homeowner for the mural .,e
+373,The child picked the teacher for the flowers .,The child picked the teacher for the flowers .,e
+374,The cook prepared the guests for the meal .,The cook prepared the guests for the meal .,e
+375,The tourist rented the agency for the car .,The tourist rented the agency for the car .,e
+376,The patron reserved the lady for the seats .,The patron reserved the lady for the seats .,e
+377,The baker rolled the lady for the pastry .,The baker rolled the lady for the pastry .,e
+378,The banker saved the client for the money .,The banker saved the client for the money .,e
+379,The officer secured the teacher for the safety .,The officer secured the teacher for the safety .,e
+380,The potter shaped the man for the pot .,The potter shaped the man for the pot .,e
+381,The thief stole the kid for the jewelry .,The thief stole the kid for the jewelry .,e
+382,The maid washed the lady for the linens .,The maid washed the lady for the linens .,e
+383,The author wrote the reader for the story .,The author wrote the reader for the story .,e
+384,The organizer arranged the professor for the event .,The organizer arranged the professor for the event .,e
+385,The engineer assembled the customer for the machine .,The engineer assembled the customer for the machine .,e
+386,The chef grilled the customer for the steak .,The chef grilled the customer for the steak .,e
+387,The grandmother knitted the baby for the blanket .,The grandmother knitted the baby for the blanket .,e
+388,The worker earned the family for the income .,The worker earned the family for the income .,e
+389,The waiter served the woman for the dinner .,The waiter served the woman for the dinner .,e
+390,The coordinator arranged the guests for the seating .,The coordinator arranged the guests for the seating .,e
+391,The team assembled the kids for the toys .,The team assembled the kids for the toys .,e
+392,The baker baked the man for the bread .,The baker baked the man for the bread .,e
+393,The agent booked the actor for the audition .,The agent booked the actor for the audition .,e
+394,The cook boiled the eggs for the breakfast .,The cook boiled the eggs for the breakfast .,e
+395,The contractor built the owners for the house .,The contractor built the owners for the house .,e
+396,The shopper bought the children for the gifts .,The shopper bought the children for the gifts .,e
+397,The craftsman carved the guests for the figure .,The craftsman carved the guests for the figure .,e
+398,The customer cashed the swimmer for the check .,The customer cashed the swimmer for the check .,e
+399,The detective caught the criminal for the evidence .,The detective caught the criminal for the evidence .,e
+400,The company chartered the group for the yacht .,The company chartered the group for the yacht .,e
+401,The circuit was assembled by the engineer.,The engineer was assembled by the circuit.,n
+402,The rod was bent by the man.,The man was bent by the rod.,n
+403,The dough was bitten by the child.,The child was bitten by the dough.,n
+404,The ingredients were blended by the kid.,The kid were blended by the ingredients.,n
+405,The wood was carved by the artisan.,The artisan was carved by the wood.,n
+406,The vegetables were chopped by the cook.,The cook was chopped by the vegetables.,n
+407,The room was cleaned by the staff.,The staff was cleaned by the room.,n
+408,The data was collected by the researcher.,The researcher was collected by the data.,n
+409,The paper was cut by the teacher.,The teacher was cut by the paper.,n
+410,The story was described by the author.,The author was described by the story.,n
+411,The building was destroyed by the hero.,The hero was destroyed by the building.,n
+412,The product was designed by the team.,The team was designed by the product.,n
+413,The criminal was pushed by the officer.,The officer was pushed by the criminal.,n
+414,The picture was drawn by the artist.,The artist was drawn by the picture.,n
+415,The poem was memorized by the student.,The student was memorized by the poem.,n
+416,The dough was flattened by the baker.,The baker was flattened by the dough.,n
+417,The shirt was folded by the clerk.,The clerk was folded by the shirt.,n
+418,The nail was hammered by the carpenter.,The carpenter was hammered by the nail.,n
+419,The system was hacked by the hacker.,The hacker was hacked by the system.,n
+420,The ball was hit by the player.,The player was hit by the ball.,n
+421,The door was kicked by the person.,The person was kicked by the door.,n
+422,The vase was knocked by the cat.,The cat was knocked by the vase.,n
+423,The decision was made by the committee.,The committee was made by the decision.,n
+424,The metal was pounded by the blacksmith.,The blacksmith was pounded by the metal.,n
+425,The goods were produced by the factory.,The factory was produced by the goods.,n
+426,The law was protected by the constitution.,The constitution was protected by the law.,n
+427,The box was punched by the opponent.,The opponent was punched by the box.,n
+428,The book was read by the teacher.,The teacher was read by the book.,n
+429,The wood was sawed by the lifeguard.,The lifeguard was sawed by the wood.,n
+430,The money was saved by the banker.,The banker was saved by the money.,n
+431,The mirror was shattered by the girl.,The girl was shattered by the mirror.,n
+432,The monster was slashed by the hero.,The hero was slashed by the monster.,n
+433,The cake was sliced by the chef.,The chef was sliced by the cake.,n
+434,The car was smashed by the giant.,The giant was smashed by the car.,n
+435,The fruit was squashed by the lady.,The lady was squashed by the fruit.,n
+436,The truth was suggested by the professor.,The professor was suggested by the truth.,n
+437,The step was skipped by the dancer.,The dancer was skipped by the step.,n
+438,The rope was skipped by the child.,The child was skipped by the rope.,n
+439,The statement was issued by the company.,The company was issued by the statement.,n
+440,The mystery was tackled by the detective.,The detective was tackled by the mystery.,n
+441,The manager allocated the employees the workstations.,The manager allocated the workstations the employees.,n
+442,The leader assigned the assistant the tasks.,The leader assigned the tasks the assistant.,n
+443,The committee awarded the athlete the trophy.,The committee awarded the trophy the athlete.,n
+444,The mother brought the friend the cookies.,The mother brought the cookies the friend.,n
+445,The coordinator emailed the team the agenda.,The coordinator emailed the agenda the team.,n
+446,The company extended the client the warranty.,The company extended the warranty the client.,n
+447,The assistant faxed the supervisor the documents.,The assistant faxed the documents the supervisor.,n
+448,The farmer fed the ducks the grain.,The farmer fed the grain the ducks.,n
+449,The representative forwarded the client the email.,The representative forwarded the email the client.,n
+450,The grandmother gave the sister the heirloom.,The grandmother gave the heirloom the sister.,n
+451,The foundation granted the organization the funding.,The foundation granted the funding the organization.,n
+452,The cashier handed the customer the change.,The cashier handed the change the customer.,n
+453,The crew hauled the friend the furniture.,The crew hauled the furniture the friend.,n
+454,The council issued the citizens the notice.,The council issued the notice the citizens.,n
+455,The neighbor lent the homeowner the tools.,The neighbor lent the tools the homeowner.,n
+456,The landlord leased the tenant the apartment.,The landlord leased the apartment the tenant.,n
+457,The manager left the colleague the keys.,The manager left the keys the colleague.,n
+458,The friend loaned the guy the ladder.,The friend loaned the ladder the guy.,n
+459,The secretary mailed the recipient the contract.,The secretary mailed the contract the recipient.,n
+460,The dealership offered the customer the drive.,The dealership offered the drive the customer.,n
+461,The borrower owed the lender the installment.,The borrower owed the installment the lender.,n
+462,The professor passed the teacher the papers.,The professor passed the papers the teacher.,n
+463,The customer paid the cashier the money.,The customer paid the money the cashier.,n
+464,The vacationer posted the friend the photos.,The vacationer posted the photos the friend.,n
+465,The provider promised the customer the package.,The provider promised the package the customer.,n
+466,The store refunded the customer the money.,The store refunded the money the customer.,n
+467,The courier relayed the manager the message.,The courier relayed the message the manager.,n
+468,The student repaid the lender the loan.,The student repaid the loan the lender.,n
+469,The gallery sold the customer the painting.,The gallery sold the painting the customer.,n
+470,The aunt sent the friend the card.,The aunt sent the card the friend.,n
+471,The waiter served the guests the course.,The waiter served the course the guests.,n
+472,The shop shipped the recipient the order.,The shop shipped the order the recipient.,n
+473,The guide showed the tourists the sites.,The guide showed the sites the tourists.,n
+474,The guest slipped the receptionist the number.,The guest slipped the number the receptionist.,n
+475,The smuggler smuggled the man the goods.,The smuggler smuggled the goods the man.,n
+476,The librarian took the mother the books.,The librarian took the books the mother.,n
+477,The instructor taught the students the concept.,The instructor taught the concept the students.,n
+478,The confidante told the friend the news.,The confidante told the news the friend.,n
+479,The merchant traded the lady the silk.,The merchant traded the silk the lady.,n
+480,The author wrote the publisher the manuscript.,The author wrote the manuscript the publisher.,n
+481,The manager allocated the workstations to the employees.,The manager allocated the employees to the workstations.,n
+482,The leader assigned the tasks to the assistant.,The leader assigned the assistant to the tasks.,n
+483,The committee awarded the trophy to the athlete.,The committee awarded the athlete to the trophy.,n
+484,The mother brought the cookies to the friend.,The mother brought the friend to the cookies.,n
+485,The coordinator emailed the agenda to the team.,The coordinator emailed the team to the agenda.,n
+486,The company extended the warranty to the client.,The company extended the client to the warranty.,n
+487,The assistant faxed the documents to the supervisor.,The assistant faxed the supervisor to the documents.,n
+488,The farmer fed the grain to the ducks.,The farmer fed the ducks to the grain.,n
+489,The representative forwarded the email to the client.,The representative forwarded the client to the email.,n
+490,The grandmother gave the heirloom to the sister.,The grandmother gave the sister to the heirloom.,n
+491,The foundation granted the funding to the organization.,The foundation granted the organization to the funding.,n
+492,The cashier handed the change to the customer.,The cashier handed the customer to the change.,n
+493,The crew hauled the furniture to the friend.,The crew hauled the friend to the furniture.,n
+494,The council issued the notice to the citizens.,The council issued the citizens to the notice.,n
+495,The neighbor lent the tools to the homeowner.,The neighbor lent the homeowner to the tools.,n
+496,The landlord leased the apartment to the tenant.,The landlord leased the tenant to the apartment.,n
+497,The manager left the keys to the colleague.,The manager left the colleague to the keys.,n
+498,The friend loaned the ladder to the guy.,The friend loaned the guy to the ladder.,n
+499,The secretary mailed the contract to the recipient.,The secretary mailed the recipient to the contract.,n
+500,The dealership offered the drive to the customer.,The dealership offered the customer to the drive.,n
+501,The borrower owed the installment to the lender.,The borrower owed the lender to the installment.,n
+502,The professor passed the papers to the teacher.,The professor passed the teacher to the papers.,n
+503,The customer paid the money to the cashier.,The customer paid the cashier to the money.,n
+504,The vacationer posted the photos to the friend.,The vacationer posted the friend to the photos.,n
+505,The provider promised the package to the customer.,The provider promised the customer to the package.,n
+506,The store refunded the money to the customer.,The store refunded the customer to the money.,n
+507,The courier relayed the message to the manager.,The courier relayed the manager to the message.,n
+508,The student repaid the loan to the lender.,The student repaid the lender to the loan.,n
+509,The gallery sold the painting to the customer.,The gallery sold the customer to the painting.,n
+510,The aunt sent the card to the friend.,The aunt sent the friend to the card.,n
+511,The waiter served the course to the guests.,The waiter served the guests to the course.,n
+512,The shop shipped the order to the recipient.,The shop shipped the recipient to the order.,n
+513,The guide showed the sites to the tourists.,The guide showed the tourists to the sites.,n
+514,The guest slipped the number to the receptionist.,The guest slipped the receptionist to the number.,n
+515,The smuggler smuggled the goods to the man.,The smuggler smuggled the man to the goods.,n
+516,The librarian took the books to the mother.,The librarian took the mother to the books.,n
+517,The instructor taught the concept to the students.,The instructor taught the students to the concept.,n
+518,The confidante told the news to the friend.,The confidante told the friend to the news.,n
+519,The merchant traded the silk to the lady.,The merchant traded the lady to the silk.,n
+520,The author wrote the manuscript to the publisher.,The author wrote the publisher to the manuscript.,n
+521,The chef baked the guests the cake.,The chef baked the cake the the guests.,n
+522,The traveler booked the family the tickets.,The traveler booked the tickets the the family.,n
+523,The fisherman caught the tourists the fish.,The fisherman caught the fish the the tourists.,n
+524,The collector bought the museum the artifact.,The collector bought the artifact the the museum.,n
+525,The artist carved the patrons the sculpture.,The artist carved the sculpture the the patrons.,n
+526,The architect designed the man the bridge.,The architect designed the bridge the the man.,n
+527,The mechanic fixed the driver the car.,The mechanic fixed the car the the driver.,n
+528,The hiker found the campers the trail.,The hiker found the trail the the campers.,n
+529,The gardener grew the neighbors the vegetables.,The gardener grew the vegetables the the neighbors.,n
+530,The tailor made the customer the suit.,The tailor made the suit the the customer.,n
+531,The customer ordered the chef the meal.,The customer ordered the meal the the chef.,n
+532,The decorator painted the homeowner the mural.,The decorator painted the mural the the homeowner.,n
+533,The child picked the teacher the flowers.,The child picked the flowers the the teacher.,n
+534,The cook prepared the guests the meal.,The cook prepared the meal the the guests.,n
+535,The tourist rented the agency the car.,The tourist rented the car the the agency.,n
+536,The patron reserved the lady the seats.,The patron reserved the seats the the lady.,n
+537,The baker rolled the lady the pastry.,The baker rolled the pastry the the lady.,n
+538,The banker saved the client the money.,The banker saved the money the the client.,n
+539,The officer secured the teacher the safety.,The officer secured the safety the the teacher.,n
+540,The potter shaped the man the pot.,The potter shaped the pot the the man.,n
+541,The thief stole the kid the jewelry.,The thief stole the jewelry the the kid.,n
+542,The maid washed the lady the linens.,The maid washed the linens the the lady.,n
+543,The author wrote the reader the story.,The author wrote the story the the reader.,n
+544,The organizer arranged the professor the event.,The organizer arranged the event the the professor.,n
+545,The engineer assembled the customer the machine.,The engineer assembled the machine the the customer.,n
+546,The chef grilled the customer the steak.,The chef grilled the steak the the customer.,n
+547,The grandmother knitted the baby the blanket.,The grandmother knitted the blanket the the baby.,n
+548,The worker earned the family the income.,The worker earned the income the the family.,n
+549,The waiter served the woman the dinner.,The waiter served the dinner the the woman.,n
+550,The coordinator arranged the guests the seating.,The coordinator arranged the seating the the guests.,n
+551,The team assembled the kids the toys.,The team assembled the toys the the kids.,n
+552,The baker baked the man the bread.,The baker baked the bread the the man.,n
+553,The agent booked the actor the audition.,The agent booked the audition the the actor.,n
+554,The cook boiled the eggs the breakfast.,The cook boiled the breakfast the the eggs.,n
+555,The contractor built the owners the house.,The contractor built the house the the owners.,n
+556,The shopper bought the children the gifts.,The shopper bought the gifts the the children.,n
+557,The craftsman carved the guests the figure.,The craftsman carved the figure the the guests.,n
+558,The customer cashed the swimmer the check.,The customer cashed the check the the swimmer.,n
+559,The detective caught the criminal the evidence.,The detective caught the evidence the the criminal.,n
+560,The company chartered the group the yacht.,The company chartered the yacht the the group.,n
+561,The chef baked the cake for the guests.,The chef baked the guests for the cake .,n
+562,The traveler booked the tickets for the family.,The traveler booked the family for the tickets .,n
+563,The fisherman caught the fish for the tourists.,The fisherman caught the tourists for the fish .,n
+564,The collector bought the artifact for the museum.,The collector bought the museum for the artifact .,n
+565,The artist carved the sculpture for the patrons.,The artist carved the patrons for the sculpture .,n
+566,The architect designed the bridge for the man.,The architect designed the man for the bridge .,n
+567,The mechanic fixed the car for the driver.,The mechanic fixed the driver for the car .,n
+568,The hiker found the trail for the campers.,The hiker found the campers for the trail .,n
+569,The gardener grew the vegetables for the neighbors.,The gardener grew the neighbors for the vegetables .,n
+570,The tailor made the suit for the customer.,The tailor made the customer for the suit .,n
+571,The customer ordered the meal for the chef.,The customer ordered the chef for the meal .,n
+572,The decorator painted the mural for the homeowner.,The decorator painted the homeowner for the mural .,n
+573,The child picked the flowers for the teacher.,The child picked the teacher for the flowers .,n
+574,The cook prepared the meal for the guests.,The cook prepared the guests for the meal .,n
+575,The tourist rented the car for the agency.,The tourist rented the agency for the car .,n
+576,The patron reserved the seats for the lady.,The patron reserved the lady for the seats .,n
+577,The baker rolled the pastry for the lady.,The baker rolled the lady for the pastry .,n
+578,The banker saved the money for the client.,The banker saved the client for the money .,n
+579,The officer secured the safety for the teacher.,The officer secured the teacher for the safety .,n
+580,The potter shaped the pot for the man.,The potter shaped the man for the pot .,n
+581,The thief stole the jewelry for the kid.,The thief stole the kid for the jewelry .,n
+582,The maid washed the linens for the lady.,The maid washed the lady for the linens .,n
+583,The author wrote the story for the reader.,The author wrote the reader for the story .,n
+584,The organizer arranged the event for the professor.,The organizer arranged the professor for the event .,n
+585,The engineer assembled the machine for the customer.,The engineer assembled the customer for the machine .,n
+586,The chef grilled the steak for the customer.,The chef grilled the customer for the steak .,n
+587,The grandmother knitted the blanket for the baby.,The grandmother knitted the baby for the blanket .,n
+588,The worker earned the income for the family.,The worker earned the family for the income .,n
+589,The waiter served the dinner for the woman.,The waiter served the woman for the dinner .,n
+590,The coordinator arranged the seating for the guests.,The coordinator arranged the guests for the seating .,n
+591,The team assembled the toys for the kids.,The team assembled the kids for the toys .,n
+592,The baker baked the bread for the man.,The baker baked the man for the bread .,n
+593,The agent booked the audition for the actor.,The agent booked the actor for the audition .,n
+594,The cook boiled the breakfast for the eggs.,The cook boiled the eggs for the breakfast .,n
+595,The contractor built the house for the owners.,The contractor built the owners for the house .,n
+596,The shopper bought the gifts for the children.,The shopper bought the children for the gifts .,n
+597,The craftsman carved the figure for the guests.,The craftsman carved the guests for the figure .,n
+598,The customer cashed the check for the swimmer.,The customer cashed the swimmer for the check .,n
+599,The detective caught the evidence for the criminal.,The detective caught the criminal for the evidence .,n
+600,The company chartered the yacht for the group.,The company chartered the group for the yacht .,n
+601,The engineer was assembled by the circuit.,The circuit was assembled by the engineer.,n
+602,The man was bent by the rod.,The rod was bent by the man.,n
+603,The child was bitten by the dough.,The dough was bitten by the child.,n
+604,The kid were blended by the ingredients.,The ingredients were blended by the kid.,n
+605,The artisan was carved by the wood.,The wood was carved by the artisan.,n
+606,The cook was chopped by the vegetables.,The vegetables were chopped by the cook.,n
+607,The staff was cleaned by the room.,The room was cleaned by the staff.,n
+608,The researcher was collected by the data.,The data was collected by the researcher.,n
+609,The teacher was cut by the paper.,The paper was cut by the teacher.,n
+610,The author was described by the story.,The story was described by the author.,n
+611,The hero was destroyed by the building.,The building was destroyed by the hero.,n
+612,The team was designed by the product.,The product was designed by the team.,n
+613,The officer was pushed by the criminal.,The criminal was pushed by the officer.,n
+614,The artist was drawn by the picture.,The picture was drawn by the artist.,n
+615,The student was memorized by the poem.,The poem was memorized by the student.,n
+616,The baker was flattened by the dough.,The dough was flattened by the baker.,n
+617,The clerk was folded by the shirt.,The shirt was folded by the clerk.,n
+618,The carpenter was hammered by the nail.,The nail was hammered by the carpenter.,n
+619,The hacker was hacked by the system.,The system was hacked by the hacker.,n
+620,The player was hit by the ball.,The ball was hit by the player.,n
+621,The person was kicked by the door.,The door was kicked by the person.,n
+622,The cat was knocked by the vase.,The vase was knocked by the cat.,n
+623,The committee was made by the decision.,The decision was made by the committee.,n
+624,The blacksmith was pounded by the metal.,The metal was pounded by the blacksmith.,n
+625,The factory was produced by the goods.,The goods were produced by the factory.,n
+626,The constitution was protected by the law.,The law was protected by the constitution.,n
+627,The opponent was punched by the box.,The box was punched by the opponent.,n
+628,The teacher was read by the book.,The book was read by the teacher.,n
+629,The lifeguard was sawed by the wood.,The wood was sawed by the lifeguard.,n
+630,The banker was saved by the money.,The money was saved by the banker.,n
+631,The girl was shattered by the mirror.,The mirror was shattered by the girl.,n
+632,The hero was slashed by the monster.,The monster was slashed by the hero.,n
+633,The chef was sliced by the cake.,The cake was sliced by the chef.,n
+634,The giant was smashed by the car.,The car was smashed by the giant.,n
+635,The lady was squashed by the fruit.,The fruit was squashed by the lady.,n
+636,The professor was suggested by the truth.,The truth was suggested by the professor.,n
+637,The dancer was skipped by the step.,The step was skipped by the dancer.,n
+638,The child was skipped by the rope.,The rope was skipped by the child.,n
+639,The company was issued by the statement.,The statement was issued by the company.,n
+640,The detective was tackled by the mystery.,The mystery was tackled by the detective.,n
+641,The manager allocated the workstations the employees.,The manager allocated the employees the workstations.,n
+642,The leader assigned the tasks the assistant.,The leader assigned the assistant the tasks.,n
+643,The committee awarded the trophy the athlete.,The committee awarded the athlete the trophy.,n
+644,The mother brought the cookies the friend.,The mother brought the friend the cookies.,n
+645,The coordinator emailed the agenda the team.,The coordinator emailed the team the agenda.,n
+646,The company extended the warranty the client.,The company extended the client the warranty.,n
+647,The assistant faxed the documents the supervisor.,The assistant faxed the supervisor the documents.,n
+648,The farmer fed the grain the ducks.,The farmer fed the ducks the grain.,n
+649,The representative forwarded the email the client.,The representative forwarded the client the email.,n
+650,The grandmother gave the heirloom the sister.,The grandmother gave the sister the heirloom.,n
+651,The foundation granted the funding the organization.,The foundation granted the organization the funding.,n
+652,The cashier handed the change the customer.,The cashier handed the customer the change.,n
+653,The crew hauled the furniture the friend.,The crew hauled the friend the furniture.,n
+654,The council issued the notice the citizens.,The council issued the citizens the notice.,n
+655,The neighbor lent the tools the homeowner.,The neighbor lent the homeowner the tools.,n
+656,The landlord leased the apartment the tenant.,The landlord leased the tenant the apartment.,n
+657,The manager left the keys the colleague.,The manager left the colleague the keys.,n
+658,The friend loaned the ladder the guy.,The friend loaned the guy the ladder.,n
+659,The secretary mailed the contract the recipient.,The secretary mailed the recipient the contract.,n
+660,The dealership offered the drive the customer.,The dealership offered the customer the drive.,n
+661,The borrower owed the installment the lender.,The borrower owed the lender the installment.,n
+662,The professor passed the papers the teacher.,The professor passed the teacher the papers.,n
+663,The customer paid the money the cashier.,The customer paid the cashier the money.,n
+664,The vacationer posted the photos the friend.,The vacationer posted the friend the photos.,n
+665,The provider promised the package the customer.,The provider promised the customer the package.,n
+666,The store refunded the money the customer.,The store refunded the customer the money.,n
+667,The courier relayed the message the manager.,The courier relayed the manager the message.,n
+668,The student repaid the loan the lender.,The student repaid the lender the loan.,n
+669,The gallery sold the painting the customer.,The gallery sold the customer the painting.,n
+670,The aunt sent the card the friend.,The aunt sent the friend the card.,n
+671,The waiter served the course the guests.,The waiter served the guests the course.,n
+672,The shop shipped the order the recipient.,The shop shipped the recipient the order.,n
+673,The guide showed the sites the tourists.,The guide showed the tourists the sites.,n
+674,The guest slipped the number the receptionist.,The guest slipped the receptionist the number.,n
+675,The smuggler smuggled the goods the man.,The smuggler smuggled the man the goods.,n
+676,The librarian took the books the mother.,The librarian took the mother the books.,n
+677,The instructor taught the concept the students.,The instructor taught the students the concept.,n
+678,The confidante told the news the friend.,The confidante told the friend the news.,n
+679,The merchant traded the silk the lady.,The merchant traded the lady the silk.,n
+680,The author wrote the manuscript the publisher.,The author wrote the publisher the manuscript.,n
+681,The manager allocated the employees to the workstations.,The manager allocated the workstations to the employees.,n
+682,The leader assigned the assistant to the tasks.,The leader assigned the tasks to the assistant.,n
+683,The committee awarded the athlete to the trophy.,The committee awarded the trophy to the athlete.,n
+684,The mother brought the friend to the cookies.,The mother brought the cookies to the friend.,n
+685,The coordinator emailed the team to the agenda.,The coordinator emailed the agenda to the team.,n
+686,The company extended the client to the warranty.,The company extended the warranty to the client.,n
+687,The assistant faxed the supervisor to the documents.,The assistant faxed the documents to the supervisor.,n
+688,The farmer fed the ducks to the grain.,The farmer fed the grain to the ducks.,n
+689,The representative forwarded the client to the email.,The representative forwarded the email to the client.,n
+690,The grandmother gave the sister to the heirloom.,The grandmother gave the heirloom to the sister.,n
+691,The foundation granted the organization to the funding.,The foundation granted the funding to the organization.,n
+692,The cashier handed the customer to the change.,The cashier handed the change to the customer.,n
+693,The crew hauled the friend to the furniture.,The crew hauled the furniture to the friend.,n
+694,The council issued the citizens to the notice.,The council issued the notice to the citizens.,n
+695,The neighbor lent the homeowner to the tools.,The neighbor lent the tools to the homeowner.,n
+696,The landlord leased the tenant to the apartment.,The landlord leased the apartment to the tenant.,n
+697,The manager left the colleague to the keys.,The manager left the keys to the colleague.,n
+698,The friend loaned the guy to the ladder.,The friend loaned the ladder to the guy.,n
+699,The secretary mailed the recipient to the contract.,The secretary mailed the contract to the recipient.,n
+700,The dealership offered the customer to the drive.,The dealership offered the drive to the customer.,n
+701,The borrower owed the lender to the installment.,The borrower owed the installment to the lender.,n
+702,The professor passed the teacher to the papers.,The professor passed the papers to the teacher.,n
+703,The customer paid the cashier to the money.,The customer paid the money to the cashier.,n
+704,The vacationer posted the friend to the photos.,The vacationer posted the photos to the friend.,n
+705,The provider promised the customer to the package.,The provider promised the package to the customer.,n
+706,The store refunded the customer to the money.,The store refunded the money to the customer.,n
+707,The courier relayed the manager to the message.,The courier relayed the message to the manager.,n
+708,The student repaid the lender to the loan.,The student repaid the loan to the lender.,n
+709,The gallery sold the customer to the painting.,The gallery sold the painting to the customer.,n
+710,The aunt sent the friend to the card.,The aunt sent the card to the friend.,n
+711,The waiter served the guests to the course.,The waiter served the course to the guests.,n
+712,The shop shipped the recipient to the order.,The shop shipped the order to the recipient.,n
+713,The guide showed the tourists to the sites.,The guide showed the sites to the tourists.,n
+714,The guest slipped the receptionist to the number.,The guest slipped the number to the receptionist.,n
+715,The smuggler smuggled the man to the goods.,The smuggler smuggled the goods to the man.,n
+716,The librarian took the mother to the books.,The librarian took the books to the mother.,n
+717,The instructor taught the students to the concept.,The instructor taught the concept to the students.,n
+718,The confidante told the friend to the news.,The confidante told the news to the friend.,n
+719,The merchant traded the lady to the silk.,The merchant traded the silk to the lady.,n
+720,The author wrote the publisher to the manuscript.,The author wrote the manuscript to the publisher.,n
+721,The chef baked the cake the the guests.,The chef baked the guests the cake.,n
+722,The traveler booked the tickets the the family.,The traveler booked the family the tickets.,n
+723,The fisherman caught the fish the the tourists.,The fisherman caught the tourists the fish.,n
+724,The collector bought the artifact the the museum.,The collector bought the museum the artifact.,n
+725,The artist carved the sculpture the the patrons.,The artist carved the patrons the sculpture.,n
+726,The architect designed the bridge the the man.,The architect designed the man the bridge.,n
+727,The mechanic fixed the car the the driver.,The mechanic fixed the driver the car.,n
+728,The hiker found the trail the the campers.,The hiker found the campers the trail.,n
+729,The gardener grew the vegetables the the neighbors.,The gardener grew the neighbors the vegetables.,n
+730,The tailor made the suit the the customer.,The tailor made the customer the suit.,n
+731,The customer ordered the meal the the chef.,The customer ordered the chef the meal.,n
+732,The decorator painted the mural the the homeowner.,The decorator painted the homeowner the mural.,n
+733,The child picked the flowers the the teacher.,The child picked the teacher the flowers.,n
+734,The cook prepared the meal the the guests.,The cook prepared the guests the meal.,n
+735,The tourist rented the car the the agency.,The tourist rented the agency the car.,n
+736,The patron reserved the seats the the lady.,The patron reserved the lady the seats.,n
+737,The baker rolled the pastry the the lady.,The baker rolled the lady the pastry.,n
+738,The banker saved the money the the client.,The banker saved the client the money.,n
+739,The officer secured the safety the the teacher.,The officer secured the teacher the safety.,n
+740,The potter shaped the pot the the man.,The potter shaped the man the pot.,n
+741,The thief stole the jewelry the the kid.,The thief stole the kid the jewelry.,n
+742,The maid washed the linens the the lady.,The maid washed the lady the linens.,n
+743,The author wrote the story the the reader.,The author wrote the reader the story.,n
+744,The organizer arranged the event the the professor.,The organizer arranged the professor the event.,n
+745,The engineer assembled the machine the the customer.,The engineer assembled the customer the machine.,n
+746,The chef grilled the steak the the customer.,The chef grilled the customer the steak.,n
+747,The grandmother knitted the blanket the the baby.,The grandmother knitted the baby the blanket.,n
+748,The worker earned the income the the family.,The worker earned the family the income.,n
+749,The waiter served the dinner the the woman.,The waiter served the woman the dinner.,n
+750,The coordinator arranged the seating the the guests.,The coordinator arranged the guests the seating.,n
+751,The team assembled the toys the the kids.,The team assembled the kids the toys.,n
+752,The baker baked the bread the the man.,The baker baked the man the bread.,n
+753,The agent booked the audition the the actor.,The agent booked the actor the audition.,n
+754,The cook boiled the breakfast the the eggs.,The cook boiled the eggs the breakfast.,n
+755,The contractor built the house the the owners.,The contractor built the owners the house.,n
+756,The shopper bought the gifts the the children.,The shopper bought the children the gifts.,n
+757,The craftsman carved the figure the the guests.,The craftsman carved the guests the figure.,n
+758,The customer cashed the check the the swimmer.,The customer cashed the swimmer the check.,n
+759,The detective caught the evidence the the criminal.,The detective caught the criminal the evidence.,n
+760,The company chartered the yacht the the group.,The company chartered the group the yacht.,n
+761,The chef baked the guests for the cake .,The chef baked the cake for the guests.,n
+762,The traveler booked the family for the tickets .,The traveler booked the tickets for the family.,n
+763,The fisherman caught the tourists for the fish .,The fisherman caught the fish for the tourists.,n
+764,The collector bought the museum for the artifact .,The collector bought the artifact for the museum.,n
+765,The artist carved the patrons for the sculpture .,The artist carved the sculpture for the patrons.,n
+766,The architect designed the man for the bridge .,The architect designed the bridge for the man.,n
+767,The mechanic fixed the driver for the car .,The mechanic fixed the car for the driver.,n
+768,The hiker found the campers for the trail .,The hiker found the trail for the campers.,n
+769,The gardener grew the neighbors for the vegetables .,The gardener grew the vegetables for the neighbors.,n
+770,The tailor made the customer for the suit .,The tailor made the suit for the customer.,n
+771,The customer ordered the chef for the meal .,The customer ordered the meal for the chef.,n
+772,The decorator painted the homeowner for the mural .,The decorator painted the mural for the homeowner.,n
+773,The child picked the teacher for the flowers .,The child picked the flowers for the teacher.,n
+774,The cook prepared the guests for the meal .,The cook prepared the meal for the guests.,n
+775,The tourist rented the agency for the car .,The tourist rented the car for the agency.,n
+776,The patron reserved the lady for the seats .,The patron reserved the seats for the lady.,n
+777,The baker rolled the lady for the pastry .,The baker rolled the pastry for the lady.,n
+778,The banker saved the client for the money .,The banker saved the money for the client.,n
+779,The officer secured the teacher for the safety .,The officer secured the safety for the teacher.,n
+780,The potter shaped the man for the pot .,The potter shaped the pot for the man.,n
+781,The thief stole the kid for the jewelry .,The thief stole the jewelry for the kid.,n
+782,The maid washed the lady for the linens .,The maid washed the linens for the lady.,n
+783,The author wrote the reader for the story .,The author wrote the story for the reader.,n
+784,The organizer arranged the professor for the event .,The organizer arranged the event for the professor.,n
+785,The engineer assembled the customer for the machine .,The engineer assembled the machine for the customer.,n
+786,The chef grilled the customer for the steak .,The chef grilled the steak for the customer.,n
+787,The grandmother knitted the baby for the blanket .,The grandmother knitted the blanket for the baby.,n
+788,The worker earned the family for the income .,The worker earned the income for the family.,n
+789,The waiter served the woman for the dinner .,The waiter served the dinner for the woman.,n
+790,The coordinator arranged the guests for the seating .,The coordinator arranged the seating for the guests.,n
+791,The team assembled the kids for the toys .,The team assembled the toys for the kids.,n
+792,The baker baked the man for the bread .,The baker baked the bread for the man.,n
+793,The agent booked the actor for the audition .,The agent booked the audition for the actor.,n
+794,The cook boiled the eggs for the breakfast .,The cook boiled the breakfast for the eggs.,n
+795,The contractor built the owners for the house .,The contractor built the house for the owners.,n
+796,The shopper bought the children for the gifts .,The shopper bought the gifts for the children.,n
+797,The craftsman carved the guests for the figure .,The craftsman carved the figure for the guests.,n
+798,The customer cashed the swimmer for the check .,The customer cashed the check for the swimmer.,n
+799,The detective caught the criminal for the evidence .,The detective caught the evidence for the criminal.,n
+800,The company chartered the group for the yacht .,The company chartered the yacht for the group.,n
